@@ -1,10 +1,8 @@
 <div align="center">
-  <img src="assets/obsidian-orbit.png" alt="Obsidian crystal surrounded by a neon-rose orbit" width="100%" />
+  <img src="assets/lena-after-dark.svg" alt="Lena — product, design, and engineering" width="100%" />
 
   <br />
   <br />
-
-  <h1>Lena</h1>
 
   <p><strong>Product builder. Interface obsessive. Usually working after dark.</strong></p>
 
@@ -31,18 +29,11 @@ finished.
 
 <br />
 
-### What I work with
+### Working range
 
-<p>
-  <img alt="Swift" src="https://img.shields.io/badge/Swift-0A070D?style=flat-square&logo=swift&logoColor=FF4FA3" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0A070D?style=flat-square&logo=typescript&logoColor=FF4FA3" />
-  <img alt="React" src="https://img.shields.io/badge/React-0A070D?style=flat-square&logo=react&logoColor=FF4FA3" />
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-0A070D?style=flat-square&logo=nodedotjs&logoColor=FF4FA3" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-0A070D?style=flat-square&logo=python&logoColor=FF4FA3" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-0A070D?style=flat-square&logo=postgresql&logoColor=FF4FA3" />
-</p>
+**Native mobile products** · **web experiences** · **product design** · **automation**
 
-`iOS products` &nbsp; `frontend systems` &nbsp; `product design` &nbsp; `automation`
+Swift / TypeScript / React / Node.js / Python / PostgreSQL
 
 <br />
 
