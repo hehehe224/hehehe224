@@ -1,0 +1,6 @@
+<svg width="1000" height="32" viewBox="0 0 1000 32" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Neon rose orbital divider">
+  <path d="M0 16H430" stroke="#3A2036"/>
+  <path d="M570 16H1000" stroke="#3A2036"/>
+  <ellipse cx="500" cy="16" rx="69" ry="9" transform="rotate(-5 500 16)" fill="none" stroke="#D946EF"/>
+  <circle cx="568" cy="10" r="3" fill="#FF2D95"/>
+</svg>
