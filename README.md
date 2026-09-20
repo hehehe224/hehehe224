@@ -43,11 +43,10 @@ Built for humans reviewing AI-assisted code, CI systems that need durable eviden
 
 ### Working range
 
-| Product | Engineering |
-| --- | --- |
-| Product direction and interaction design | TypeScript, Node.js, Python, Swift |
-| Web experiences and native interfaces | React, APIs, automation, PostgreSQL |
-| Design systems and precise UX writing | Testing, release workflows, developer tooling |
+- **Product:** direction, interaction design, clear UX writing
+- **Interfaces:** responsive web, native mobile, design systems
+- **Engineering:** TypeScript, Node.js, Python, Swift, React, APIs, PostgreSQL
+- **Delivery:** testing, automation, release workflows, developer tooling
 
 I choose the stack around the problem. Web, mobile, backend, automation, and developer infrastructure are all fair game.
 
