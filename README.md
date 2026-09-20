@@ -21,7 +21,7 @@ The medium changes. The standard does not. A useful result should feel obvious t
 
 <br />
 
-<img src="assets/world-map.svg" alt="A builder path from problem discovery to a tested release" width="100%" />
+<img src="assets/builder-world-v2.png" alt="A neon-rose path crossing a dark obsidian world toward a distant release beacon" width="100%" />
 
 <br />
 
