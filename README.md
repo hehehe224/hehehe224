@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/lena-after-dark.svg" alt="Lena — product, design, and engineering" width="100%" />
+  <img src="assets/lena-mark.svg" alt="Lena — product, design, and engineering" width="100%" />
 
   <br />
   <br />
