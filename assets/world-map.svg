@@ -1,0 +1,14 @@
+<svg width="1200" height="430" viewBox="0 0 1200 430" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Builder world map</title><desc id="desc">A dark game-inspired map connecting product thinking, interface craft, engineering, and released open-source tools.</desc>
+  <defs><linearGradient id="route" x1="112" y1="342" x2="1080" y2="76" gradientUnits="userSpaceOnUse"><stop stop-color="#FF2D95"/><stop offset="1" stop-color="#B64FE2"/></linearGradient><radialGradient id="aura"><stop stop-color="#FF2D95" stop-opacity=".22"/><stop offset="1" stop-color="#08070B" stop-opacity="0"/></radialGradient></defs>
+  <rect width="1200" height="430" rx="16" fill="#08070B"/><rect x="23" y="23" width="1154" height="384" rx="10" fill="none" stroke="#3A2036"/><circle cx="845" cy="152" r="170" fill="url(#aura)"/>
+  <path d="M105 337C209 337 226 263 326 263C430 263 452 328 551 287C653 245 667 161 777 161C886 161 919 94 1088 78" fill="none" stroke="#391D31" stroke-width="12" stroke-linecap="round"/>
+  <path d="M105 337C209 337 226 263 326 263C430 263 452 328 551 287C653 245 667 161 777 161C886 161 919 94 1088 78" fill="none" stroke="url(#route)" stroke-width="3" stroke-linecap="round"/>
+  <g font-family="Arial,Helvetica,sans-serif">
+    <circle cx="105" cy="337" r="19" fill="#FF2D95"/><circle cx="105" cy="337" r="7" fill="#FFF7FB"/><text x="74" y="387" fill="#FFF7FB" font-size="18" font-weight="700">PROBLEM</text><text x="73" y="409" fill="#9D8996" font-size="13">find the real friction</text>
+    <circle cx="326" cy="263" r="18" fill="#08070B" stroke="#FF61AE" stroke-width="4"/><text x="276" y="220" fill="#FFF7FB" font-size="18" font-weight="700">PRODUCT</text><text x="250" y="242" fill="#9D8996" font-size="13">make the path obvious</text>
+    <circle cx="551" cy="287" r="18" fill="#08070B" stroke="#E44EDC" stroke-width="4"/><text x="512" y="336" fill="#FFF7FB" font-size="18" font-weight="700">CRAFT</text><text x="478" y="358" fill="#9D8996" font-size="13">sweat the final interaction</text>
+    <circle cx="777" cy="161" r="20" fill="#08070B" stroke="#CB4DE0" stroke-width="4"/><text x="725" y="111" fill="#FFF7FB" font-size="18" font-weight="700">ENGINEER</text><text x="704" y="133" fill="#9D8996" font-size="13">build the whole mechanism</text>
+    <path d="M1088 50l28 28-28 28-28-28z" fill="#FF2D95"/><path d="M1076 78l8 8 17-20" fill="none" stroke="#FFF7FB" stroke-width="4"/><text x="957" y="130" fill="#FFF7FB" font-size="18" font-weight="700">RELEASE</text><text x="913" y="152" fill="#9D8996" font-size="13">ship it with evidence</text>
+  </g>
+</svg>

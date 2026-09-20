@@ -1,39 +1,24 @@
-<svg width="1200" height="360" viewBox="0 0 1200 360" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">LENA</title>
-  <desc id="desc">Custom geometric LENA wordmark with a neon-rose orbit</desc>
-
+<svg width="1200" height="460" viewBox="0 0 1200 460" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Lena, independent product builder</title>
+  <desc id="desc">A cinematic dark rose identity screen with a geometric Lena wordmark and a branching world path.</desc>
   <defs>
-    <linearGradient id="rose" x1="132" y1="56" x2="1080" y2="304" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#FF2D95"/>
-      <stop offset="0.55" stop-color="#D946EF"/>
-      <stop offset="1" stop-color="#6A245F"/>
-    </linearGradient>
-    <radialGradient id="wash" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(995 170) rotate(180) scale(410 258)">
-      <stop stop-color="#FF2D95" stop-opacity="0.14"/>
-      <stop offset="1" stop-color="#070609" stop-opacity="0"/>
-    </radialGradient>
+    <linearGradient id="rose" x1="70" y1="60" x2="1120" y2="390" gradientUnits="userSpaceOnUse"><stop stop-color="#FF2D95"/><stop offset=".58" stop-color="#D946EF"/><stop offset="1" stop-color="#71245F"/></linearGradient>
+    <radialGradient id="wash" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(980 214) rotate(180) scale(430 320)"><stop stop-color="#FF2D95" stop-opacity=".16"/><stop offset="1" stop-color="#070609" stop-opacity="0"/></radialGradient>
+    <filter id="soft"><feGaussianBlur stdDeviation="11"/></filter>
   </defs>
-
-  <rect width="1200" height="360" fill="#070609"/>
-  <rect width="1200" height="360" fill="url(#wash)"/>
-  <rect x="25.5" y="25.5" width="1149" height="309" rx="2.5" fill="none" stroke="#3A2036"/>
-
-  <ellipse cx="948" cy="178" rx="208" ry="76" transform="rotate(-13 948 178)" fill="none" stroke="url(#rose)" stroke-width="2"/>
-  <ellipse cx="948" cy="178" rx="142" ry="142" transform="rotate(38 948 178)" fill="none" stroke="#FF2D95" stroke-opacity="0.16"/>
-  <path d="M731 229C842 133 1001 98 1136 126" fill="none" stroke="#FFB1D5" stroke-opacity="0.22"/>
-  <circle cx="1134" cy="126" r="5" fill="#FF2D95"/>
-  <circle cx="792" cy="224" r="3" fill="#FFF4FA"/>
-
-  <path d="M78 77H174" stroke="#FF2D95" stroke-width="3"/>
-
-  <!-- Bespoke geometric wordmark: every letter is authored as a shape. -->
-  <path d="M78 102H99V219H184V240H78V102Z" fill="#FFF8FC"/>
-  <path d="M222 102H345V123H243V158H329V179H243V219H349V240H222V102Z" fill="#FFF8FC"/>
-  <path d="M390 240V102H410L513 207V102H534V240H514L411 135V240H390Z" fill="#FFF8FC"/>
-  <path fill-rule="evenodd" clip-rule="evenodd" d="M573 240L633 102H657L717 240H693L678 204H612L597 240H573ZM621 183H669L645 126L621 183Z" fill="#FFF8FC"/>
-
-  <!-- Rose cuts make the mark identifiable at a glance. -->
-  <path d="M222 158H276L263 179H222V158Z" fill="#FF2D95"/>
-  <path d="M625 183H669L661 204H616L625 183Z" fill="#FF2D95"/>
-  <circle cx="748" cy="226" r="9" fill="#FF2D95"/>
+  <rect width="1200" height="460" rx="16" fill="#070609"/><rect width="1200" height="460" rx="16" fill="url(#wash)"/>
+  <path d="M32 92V32H92M1108 32h60v60M32 368v60h60M1168 368v60h-60" fill="none" stroke="#4B253E" stroke-width="2"/>
+  <circle cx="1010" cy="162" r="118" fill="#FF2D95" opacity=".05" filter="url(#soft)"/>
+  <path d="M733 349C788 302 788 255 836 226C890 193 936 239 971 190C1008 138 1047 115 1127 91" fill="none" stroke="#522344" stroke-width="4"/>
+  <path d="M836 226C865 169 845 126 799 95M971 190C1040 220 1084 261 1103 328" fill="none" stroke="#522344" stroke-width="3"/>
+  <path d="M733 349C788 302 788 255 836 226C890 193 936 239 971 190" fill="none" stroke="url(#rose)" stroke-width="4"/>
+  <circle cx="733" cy="349" r="9" fill="#FF2D95"/><circle cx="836" cy="226" r="12" fill="#070609" stroke="#FF79BA" stroke-width="4"/><circle cx="971" cy="190" r="15" fill="#FF2D95"/>
+  <circle cx="799" cy="95" r="7" fill="#73415F"/><circle cx="1127" cy="91" r="7" fill="#73415F"/><circle cx="1103" cy="328" r="7" fill="#73415F"/><path d="M971 168l22 22-22 22-22-22z" fill="none" stroke="#FFF5FA" stroke-width="2"/>
+  <path d="M68 76H163" stroke="#FF2D95" stroke-width="4"/>
+  <path d="M68 112H92V263H194V287H68V112Z" fill="#FFF8FC"/><path d="M235 112H382V136H259V175H362V199H259V263H387V287H235V112Z" fill="#FFF8FC"/><path d="M432 287V112H455L577 246V112H601V287H578L456 151V287H432Z" fill="#FFF8FC"/>
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M634 287L705 112H733L804 287H776L758 242H680L662 287H634ZM691 218H747L719 146L691 218Z" fill="#FFF8FC"/>
+  <path d="M235 175H299L284 199H235V175ZM695 218H747L737 242H684L695 218Z" fill="#FF2D95"/>
+  <text x="71" y="343" fill="#FF83BE" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="16" letter-spacing="3">INDEPENDENT PRODUCT BUILDER</text>
+  <text x="71" y="382" fill="#A996A3" font-family="Arial,Helvetica,sans-serif" font-size="18">Interfaces, developer tools, and systems built to survive real use.</text>
+  <text x="736" y="388" fill="#A996A3" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13" letter-spacing="2">MAKE  /  TEST  /  PROVE</text>
 </svg>
