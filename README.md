@@ -1,61 +1,22 @@
-<div align="center">
-  <img src="assets/lena-title.svg" alt="Lena" width="100%" />
-  <img src="assets/builder-world-v2.png" alt="A neon-rose path crossing a dark obsidian world toward a distant release beacon" width="100%" />
+<h3 align="center">Lena · 独立开发者</h3>
 
-  <br />
-
-  <strong>独立开发者 · 专注软件、界面与实用工具。</strong>
-</div>
+<p align="center">把想法做成真正好用的产品。</p>
 
 <br />
 
-### 关于我
+**关于我**
 
-我是 Lena，一名独立产品开发者。从第一个交互细节，到底层系统和发布流程，我把想法一路做到上线。
+从第一个交互细节，到底层系统和上线发布，我一个人把产品完整做出来。
+喜欢干净的界面、可靠的代码，和真正解决问题的小工具。
 
-喜欢干净的设计、可靠的代码，以及真正解决问题的工具。
+**常用技术**
 
-<br />
+Swift · TypeScript · React · Node.js · Python · PostgreSQL
 
-### Selected work
+**我的原则**
 
-#### [RunReceipt](https://github.com/hehehe224/runreceipt)
-
-Verifiable, signed receipts tying test and build results to a specific Git state. RunReceipt is local, cross-platform, agent-agnostic, and stores output hashes instead of sensitive logs.
-
-```bash
-npx --yes github:hehehe224/runreceipt#v0.1.0 run -- npm test
-```
-
-Built for code review, CI workflows, and coding agents that should leave durable evidence behind.
+清楚，真实，经得起使用。
 
 <br />
 
-<img src="assets/orbit-rule.svg" alt="" width="100%" />
-
-### Across the stack
-
-I take products from the first interaction decision through the system beneath it and the release path around it.
-
-- **Native:** Swift, iOS product flows, mobile interaction design
-- **Web:** TypeScript, JavaScript, React, responsive interfaces
-- **Systems:** Node.js, Python, APIs, PostgreSQL, automation
-- **Delivery:** testing, failure cases, CI, release tooling, documentation
-
-The stack follows the problem. The quality bar stays put.
-
-### Working rules
-
-1. **Document the constraint.** Decisions are easier to trust when the tradeoff is visible.
-2. **Test the failure case.** The awkward path is part of the product.
-3. **Make the first run easy.** Useful software should not need a guided tour to prove its value.
-
-### Follow the work
-
-Public repositories are where the ideas become inspectable: working code, honest constraints, tests, and documentation.
-
-Found a rough edge? [Browse the repositories and open an issue](https://github.com/hehehe224?tab=repositories).
-
-<br />
-
-<p align="center"><strong>Make it clear. Make it real. Leave proof.</strong></p>
+<p align="center"><sub>Independent builder · 简单的东西，认真做好。</sub></p>
