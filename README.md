@@ -1,22 +1,10 @@
-<h3 align="center">Lena · 独立开发者</h3>
+### 嗨，我是 lena 👋
 
-<p align="center">把想法做成真正好用的产品。</p>
+平时写代码、做产品，偶尔为了一个按钮的圆角改到凌晨三点。
 
-<br />
+- 🔭 最近在做：几个自己的 app，还有一些开发者小工具
+- 🌱 在学：更顺滑的动效和 iOS 设计
+- 💬 可以找我聊：前端、Swift、产品体验
+- ☕ 冷知识：一杯咖啡能写完一个 feature（有时候要两杯）
 
-**关于我**
-
-从第一个交互细节，到底层系统和上线发布，我一个人把产品完整做出来。
-喜欢干净的界面、可靠的代码，和真正解决问题的小工具。
-
-**常用技术**
-
-Swift · TypeScript · React · Node.js · Python · PostgreSQL
-
-**我的原则**
-
-清楚，真实，经得起使用。
-
-<br />
-
-<p align="center"><sub>Independent builder · 简单的东西，认真做好。</sub></p>
+`swift` `typescript` `react` `node` `python`
