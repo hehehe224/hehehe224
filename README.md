@@ -4,8 +4,16 @@
 
   <br />
 
-  <strong>Independent builder of software, interfaces, and useful tools.</strong>
+  <strong>独立开发者 · 专注软件、界面与实用工具。</strong>
 </div>
+
+<br />
+
+### 关于我
+
+我是 Lena，一名独立产品开发者。从第一个交互细节，到底层系统和发布流程，我把想法一路做到上线。
+
+喜欢干净的设计、可靠的代码，以及真正解决问题的工具。
 
 <br />
 
